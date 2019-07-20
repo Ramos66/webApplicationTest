@@ -1,0 +1,5 @@
+D:\3.code\3.test1\1.test1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\3.code\3.test1\1.test1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\3.code\3.test1\1.test1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\3.code\3.test1\1.test1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\3.code\3.test1\1.test1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
